@@ -68,6 +68,7 @@ p {
 .col-2 {
     flex-basis: 50%;
     min-width: 300px;
+    padding-left: 100px;
 }
 
 .col-2 img {
