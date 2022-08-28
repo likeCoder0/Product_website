@@ -1,2 +1,2 @@
 # Product_website
-i developed this product website using html and css
+I developed this product website using html and css
