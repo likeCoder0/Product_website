@@ -75,6 +75,7 @@ p {
     flex-basis: 50%;
     min-width: 300px;
     padding-left: 10%;
+    
 }
 
 .col-2 img {
@@ -222,6 +223,9 @@ h4 {
 .footer-col-4 {
     flex-basis: 12%;
     text-align: center;
+}
+.footer-col-4 ul li a{
+   color: #8a8a8a;
 }
 
 ul {
